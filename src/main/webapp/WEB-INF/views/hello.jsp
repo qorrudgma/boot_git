@@ -7,6 +7,6 @@
 </head>
 <body>
     hello.jsp~~(git)
-	test~~
+	test~~ 깃에서
 </body>
 </html>
